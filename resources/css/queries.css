@@ -15,9 +15,10 @@
     width: 100%;
     margin: 0 0 4% 0;
   }
+
   .main-nav { display: none; }
 
-  .h1 { font-size: 100% }
+  .h1 { font-size: 180% }
   .h2 { font-size: 150% }
 
   .long-copy {
@@ -27,9 +28,7 @@
 
   .app-screen { width: 40%; }
 
-  .steps-box:first-child {
-    text-align: center;
-  }
+  .steps-box:first-child { text-align: center; }
 
   .works-step div {
     height: 40px;
