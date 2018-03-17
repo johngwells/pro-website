@@ -73,12 +73,12 @@
 
   .plan-price { font-size: 250%; }
   .contact-form { width: 80% }
+
 }
 
 /* Big tablet to 1200px. widths smaller than 1140px row*/
 @media only screen and (max-width: 1200px) {
   .hero-text-box {
-    position: absolute;
     width: 100%;
     padding: 0 2%;
   }
